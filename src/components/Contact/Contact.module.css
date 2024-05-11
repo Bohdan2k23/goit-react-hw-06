@@ -1,0 +1,17 @@
+.contact {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid black;
+  width: 300px;
+  gap: 50px;
+  margin-bottom: 15px;
+  padding: 8px;
+}
+.contact p {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-top: 5px;
+  font-weight: bold;
+}
